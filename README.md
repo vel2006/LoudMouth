@@ -58,10 +58,17 @@ Scanner works by sniffing a WiFi interface's traffic to find Broadcast frames, t
 ## Modules To Come
 
 Drop      - Deauth entire target network
+
 Twin      - Converts the target interface into an evil twin
+
 List      - Create a list of every client and AP on target network
+
 Surf      - Deauth every network
+
 Halt      - Deauth spesific client devices
+
 Takeover  - Attempts to take over a target network via ARP poisoning
+
 Invisible - Deauth only IP cameras
+
 Eavesdrop - Attempts to decrypt data sent on a network if outdated encryption is used
